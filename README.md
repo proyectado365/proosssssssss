@@ -13,3 +13,12 @@
 
 - Python (NumPy, Pandas)
 - JavaScript/Node.js (simuladores héroes)
+
+**Experiencia:**
+
+- Prácticas preprofesionales CONAUTIC (remoto)
+
+**Proyectos SENATI:**
+
+- Simulador batalla JS (WindowsDefender vs Ransomware)
+-
