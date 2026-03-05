@@ -8,3 +8,8 @@
 
 - Git/GitHub (ramas, commits, merge)
 - Linux Fedora admin
+
+**Lenguajes:**
+
+- Python (NumPy, Pandas)
+- JavaScript/Node.js (simuladores héroes)
